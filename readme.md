@@ -1,15 +1,26 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
+	<h4>
+		Check out my latest iPhone app <a href="https://apps.apple.com/app/id1532588789">Photo Widget</a> which lets you add photos to your home screen
+	</h4>
+	<br>
+	<br>
+	<br>
 	<p>
 		<p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
 			</sup>
 		</p>
+		<sup>Special thanks to:</sup>
 		<br>
 		<br>
+		<a href="https://standardresume.co">
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		</a>
 	</p>
+	<br>
 	<br>
 	<br>
 </div>
@@ -162,7 +173,8 @@
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
-- [R](https://github.com/qinwf/awesome-R#readme)
+- [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
 	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
@@ -397,6 +409,7 @@
 - [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 - [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 - [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## Development Environment
 
@@ -527,6 +540,7 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## Work
 
